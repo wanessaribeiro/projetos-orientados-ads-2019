@@ -1,0 +1,43 @@
+div img .img-home{
+
+	margin: 15%;
+}
+
+.formularios{
+
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 4%;
+	font-weight: bolder;
+	color: #573e35;
+	padding-bottom: 1%;
+}
+
+.formulario{
+
+
+}
+
+.fundo{
+
+	background-image: url("../imagens/fundo1.jpg");
+}
+
+.titulo{
+
+	padding: 4%;
+	font-weight: bolder;
+	color: #573e35;
+}
+
+.botao{
+
+	background-color: #966a5b;
+	border-color: #966a5b;
+	float:right;
+}
+
+.caixa-de-texto{
+
+	border-color: #966a5b;
+}
